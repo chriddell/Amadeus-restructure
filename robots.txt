@@ -1,0 +1,3 @@
+User-agent: *
+Disallow: /country-test.html
+Disallow: /fr/country-test.html
