@@ -8,7 +8,9 @@ Purpose of this project is to restructure files/folders in the Amadeus Selling P
 * Strucutre of scripts folder (/js) is now:
 
 > /lib
+>
 > contains js libraries - these should be minified and called from a CDN where possible
+>
 > custom scripts live in root of /js
 
 * Bootstrap JS is now called from CDN
