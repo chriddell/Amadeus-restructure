@@ -7846,22 +7846,22 @@ iframe#entry {
   left: 42%;
 }
 .demo-bg--liberate {
-  background-image: url('../images/demo-bg-liberate.jpg');
+  background-image: url('../assets/images/demo-bg-liberate.jpg');
 }
 .demo-bg--innovate {
-  background-image: url('../images/demo-bg-innovate.jpg');
+  background-image: url('../assets/images/demo-bg-innovate.jpg');
 }
 .demo-bg--differentiate {
-  background-image: url('../images/demo-bg-differentiate.jpg');
+  background-image: url('../assets/images/demo-bg-differentiate.jpg');
 }
 .demo-bg--create {
-  background-image: url('../images/demo-bg-create.jpg');
+  background-image: url('../assets/images/demo-bg-create.jpg');
 }
 .demo-bg--overall {
-  background-image: url('../images/demo-bg-overall.jpg');
+  background-image: url('../assets/images/demo-bg-overall.jpg');
 }
 .demo-bg--man {
-  background-image: url('../images/demo-bg-man.png');
+  background-image: url('../assets/images/demo-bg-man.png');
   height: 225px;
 }
 .demo-bg--man > a {
@@ -7896,7 +7896,7 @@ iframe#entry {
 /* Info sheet PDF thumbs */
 .info-sheets__downloads .info-sheets__downloads__download a:after {
   content: '';
-  background: url('../images/icon-download.png');
+  background: url('../assets/images/icon-download.png');
   width: 48px;
   height: 51px;
   position: absolute;
