@@ -12,3 +12,7 @@ Purpose of this project is to restructure files/folders in the Amadeus Selling P
 - Fonts, images, video and pdfs now live in /assets across all sites (for global, this is inside /global-assets, to keep root clutter-free)
 - Call images from /global-assets where possible. Only use images in regional folders where we need regional language version
 - Same as above for fonts
+
+## Proposal
+
+My proposal is that we structure all sub-sites (regions) in the same way the /cz is in this example.
