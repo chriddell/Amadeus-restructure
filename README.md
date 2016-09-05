@@ -9,4 +9,5 @@ Purpose of this project is to restructure files/folders in the Amadeus Selling P
     - /lib - contains js libraries - these should be minified and called from a CDN where possible
     - custom scripts live in root of /js
 - Bootstrap JS is now called from CDN
-- Fonts, images, video and pdfs now live in /assets across all sites (for global, this is inside /global-assets, as this is where all global assets live.
+- Fonts, images, video and pdfs now live in /assets across all sites (for global, this is inside /global-assets, to keep root clutter-free)
+- Call images from /global-assets where possible. Only use images in regional folders where we need regional language version
